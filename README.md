@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on: IntelliDelve Operation Portal<br>🤝 I'm looking to collaborate on: App Projects<br>📚 I'm currently learning: App Development<br>💡 Ask me about: Tech, UI/UX, and building apps<br>🎉 Fun fact: I can spend hours debugging only to find a missing semicolon
+🤝 I'm looking to collaborate on: Web App Projects<br>📚 I'm currently learning: Web App Development<br>💡 Ask me about: Tech, UI/UX, and building apps<br>🎉 Fun fact: I can spend hours debugging only to find a missing semicolon
 
 
 # 💻 Tech Stack:
